@@ -4,3 +4,6 @@
     npm install
     npm run dev
     
+==> hero icons
+    - npm install @heroicons/react
+    - import
