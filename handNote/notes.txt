@@ -7,3 +7,9 @@
 ==> hero icons
     - npm install @heroicons/react
     - import
+
+==> Rechart
+    - npm install recharts
+
+==> Axios js
+    - npm install axios
