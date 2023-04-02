@@ -1,0 +1,6 @@
+==> tailwind: framework guide
+    npm create vite price-list-cards -- --tamplate react
+    cd price-list-cards
+    npm install
+    npm run dev
+    
