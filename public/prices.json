@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": 2999,
+      "features": ["Equipment", "Locker"]
+    },
+    {
+      "id": 2,
+      "name": "Premium Membership",
+      "price": 4999,
+      "features": ["Equipment", "Locker", "Classes", "PT"]
+    },
+    {
+      "id": 3,
+      "name": "VIP Membership",
+      "price": 9999,
+      "features": ["Equipment", "Locker", "Classes", "PT", "Towel", "Priority"]
+    }
+  ]
+  
