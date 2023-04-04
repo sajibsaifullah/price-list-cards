@@ -3,6 +3,8 @@
     cd price-list-cards
     npm install
     npm run dev
+
+==> tailwind install following tailwind site
     
 ==> hero icons
     - npm install @heroicons/react
